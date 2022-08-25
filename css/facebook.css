@@ -1,0 +1,35 @@
+.box{background: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+    border-bottom: 2px solid blue;
+    border-top: 2px solid blue;
+height: 400px;
+width: 450px;
+
+}
+.f{font-size: 60px;
+    color:blue ;
+    
+
+}
+.w{
+    border: 30px solid blue;
+    border-top: 30px solid blue;
+    border-left: 30px solid blue;
+    border-right: 30px solid blue;
+    border-bottom: 30px solid blue;
+    height: 0px;
+    width: 0px;
+
+}
+.h{
+    font-size: 60px;
+    color: white;
+    margin-top: -40px;
+    margin-left: -10px;
+
+}
+.r{
+    margin-top: -180px;
+    
+}

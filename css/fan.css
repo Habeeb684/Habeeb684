@@ -1,0 +1,100 @@
+#fan {
+border: 2px solid black;
+width: 370px;
+height: 370px;
+border-radius: 100%;
+background-color: black;
+
+}
+#fan1{
+    border: 2px solid blue;
+    width: 330px; 
+    height: 330px;
+    border-radius: 100%;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+#fan2{
+    border: 2px solid brown;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-color:rgb(39, 7, 7);
+    margin-left: 13px;
+    margin-top: 15px;
+}
+#fan3{
+    border: 2px solid purple;
+    width:40px ;
+    height:40px;
+    border-radius: 100%;
+    background-color: black;
+    margin-left: 130px;
+    margin-top: 130px;
+}
+#stand{
+    border: 2px solid black;
+    width: 40px;
+    height: 300px;
+    background-color: rgb(65, 9, 9);
+margin-left: 170px;
+margin-top: -3px;
+}
+#botton{border: 2px solid blue ;
+    height: 70px;
+    width: 30px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-left: 175px;
+    background-color: red;
+    margin-top: -200px;
+
+}
+#blade1{border: 2px solid blue ;
+    height: 70px;
+    width: 20px;
+border-bottom-left-radius: 50px;
+background-color: red;
+margin-left: 175px;
+margin-top: -338px;
+}
+#blade2{
+    border: 2px solid blue;
+    height:70px ;
+    width:20px ;
+    border-top-left-radius: 50px;
+    background-color: red;
+    margin-left: 175px;
+    margin-top: -179px;
+}
+#blade3{
+    border: 2px solid blue;
+    height: 20px;
+    width: 70px;
+    border-bottom-right-radius: 50px;
+    background-color: red;
+    margin-left: 190px;
+}
+#blade4{
+margin-left: 190px;
+    border: 2px solid blue;
+    height: 20px;
+    width: 70px;
+    border-bottom-right-radius: 50px;
+    background-color: red;
+margin-left: 130px;
+margin-bottom: -10px;
+}
+
+#stand1{
+    border-radius: 100%;
+    width: 250px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 400px;
+    margin-left: 60j px;
+}

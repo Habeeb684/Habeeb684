@@ -1,0 +1,53 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css);
+html,body{
+    margin: 0%;
+    padding: 0%;
+}
+.youtube{
+    background: blue;
+}
+.youtube .header{
+width: 100%;
+background: blueviolet;
+height: 60px;
+box-shadow: 0px 0px 0px;
+position: fixed;
+top: 0px;
+}
+.body{
+    margin-top: 60px;
+    background: white;
+}
+.sidebar{
+    background: red;
+    width: 7%;
+    height: 100vh;
+    position: fixed;
+    left: 0px;
+}
+.content{
+    width: 93%;
+    height: 150vh;
+    background: black;
+    margin-left: 7%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
+.thumb{
+    width: 300px;
+    height: 350px;
+    box-shadow: 0px 0px 3px #fff;
+    margin-right: 21px;
+
+}
+.circle{
+    width: 30px;
+    height: 30px;
+    background: green;
+    border-radius: 100%;
+    position: absolute;
+    top: 0px;
+    right: 30%;
+}
