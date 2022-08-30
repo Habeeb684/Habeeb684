@@ -13,9 +13,26 @@ justify-content: space-between ;
 align-items: center;
 display: flex;
 }
+.fa-solid{
+    position: fixed;
+}
 .text{
     color: white;
 }
 .search{
     color: white;
+}
+.thebody{
+    background-color:#484848;
+    width: 1600px;
+    height: 1000px;
+}
+.whitepage{border: 2px solid black;
+    background-color: white;
+    width:1500px ;
+    height: 100px;
+    margin-left: 3%;
+    border: 10px;
+
+    
 }
